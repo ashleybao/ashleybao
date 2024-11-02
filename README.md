@@ -8,6 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-bao-32a2ab208/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abao26@amherst.edu)
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashleybao&layout=compact">
 
 
 ## Programming Languages
@@ -49,7 +50,6 @@
  * Working part-time to improve internal applications at InterSystems Corporation
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ashleybao&show_icons=true&hide=[%22issues%22])
  
  
 <!--
