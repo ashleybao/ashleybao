@@ -1,4 +1,4 @@
-## Hey, I'm Ashley!##
+## Hey, I'm Ashley!
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
